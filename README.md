@@ -1,7 +1,9 @@
-# MedMaintBot 🏥🤖 WebUI Built With Supabase using Nextjs 14, NPM, PostgreSQL(PGVector), Tailwind.
+# MedMaintBot 🏥🤖
 
 # AI-Powered Chatbot for Biomedical Device Maintenance
+© 2025 Hassana Mahfoud, Yassine Yassif, Bakkali Omar, Azamir Meryem (ENSAM-Meknès)
 
+# 📝 Description
 MedMaintBot is an intelligent chatbot designed to support biomedical engineers and technicians in managing and troubleshooting medical device maintenance.
 It leverages Retrieval-Augmented Generation (RAG), domain-specific NLP, and machine learning models to provide accurate, context-aware answers to maintenance requests.
 
