@@ -1,7 +1,12 @@
-# Chat With Your Documents WebUI Built With Supabase using Nextjs 14, NPM, PostgreSQL(PGVector), Tailwind.
+# MedMaintBot 🏥🤖 WebUI Built With Supabase using Nextjs 14, NPM, PostgreSQL(PGVector), Tailwind.
 
-In the realm of LLMs and RAG (Retrieval Augmented Generation) Era we deleve into creating a streaming API for Q&A Chat between users and uploaded documents.
-This application makes it easier and efficient to chat with your documents and get responses as quick as possible.
+# AI-Powered Chatbot for Biomedical Device Maintenance
+
+MedMaintBot is an intelligent chatbot designed to support biomedical engineers and technicians in managing and troubleshooting medical device maintenance.
+It leverages Retrieval-Augmented Generation (RAG), domain-specific NLP, and machine learning models to provide accurate, context-aware answers to maintenance requests.
+
+The system was developed and tested at the Industrial Engineering Laboratory of ENSAM-Meknès, in Morocco, in collaboration with biomedical engineering experts.
+It integrates device manuals, hospital maintenance scenarios, and predictive analytics to assist in reducing downtime, optimizing technician assignment, and ensuring regulatory compliance.
 
 ## Compatibilty Features 🎯
 
