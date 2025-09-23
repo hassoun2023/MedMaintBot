@@ -18,7 +18,9 @@ The system was developed and tested at the Industrial Engineering Laboratory of 
 ## ✨ Key Features
 
 🔎 Guided Troubleshooting: Provides contextual advice on resolving common medical device issues.
+
 📖 Manual Access: Retrieves information from manufacturer manuals and biomedical reference documents.
+
 🧩 Context-Aware Responses: Adapts answers to the specific device and fault description entered by the user.
 🛠 Maintenance Routines: Supports technicians with preventive and corrective maintenance instructions.
 📊 Research-Based: Built with synthetic request scenarios validated against biomedical engineering use cases.
