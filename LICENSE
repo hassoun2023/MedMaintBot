@@ -1,19 +1,6 @@
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
-Copyright 2025 Hassana Mahfoud, Yassine Yassif, Bakkali Omar, and Azamir Meryem
-
-NonCommercial Use Clause:
-This software (the "Work") is provided under the terms of the Apache License, Version 2.0 
-with the following additional condition:
-
-   - The Work may only be used for academic research and other non-commercial purposes.
-   - Any commercial use, including but not limited to sale, licensing, SaaS offerings, or 
-     integration into commercial products, is strictly prohibited without prior written 
-     permission from the copyright holders.
-
-All other terms and conditions of the Apache License, Version 2.0 (January 2004) apply 
-as stated below.
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -198,6 +185,8 @@ as stated below.
       file or class name and description of purpose be included on the
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
+
+   Copyright [yyyy] [name of copyright owner]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
