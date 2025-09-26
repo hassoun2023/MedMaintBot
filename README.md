@@ -27,12 +27,13 @@ Maintenance Routines: Supports technicians with preventive and corrective mainte
 
 Research-Based: Built with synthetic request scenarios validated against biomedical engineering use cases.
 
+[Capture d'écran 2024-09-02 211747.png](Capture d'écran 2024-09-02 211747.png)
+
 ## LICENSE 📄
 This project is released under a Custom Apache 2.0–NonCommercial License.
 It is free to use for academic and research purposes only.
 Commercial use requires explicit permission from the copyright holders.
 see the [LICENSE](LICENSE) file for details
-
 
 ## 📝 Sign-off on Commits (DCO)
 
