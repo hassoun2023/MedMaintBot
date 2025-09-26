@@ -27,6 +27,13 @@ Maintenance Routines: Supports technicians with preventive and corrective mainte
 
 Research-Based: Built with synthetic request scenarios validated against biomedical engineering use cases.
 
+## LICENSE 📄
+This project is released under a Custom Apache 2.0–NonCommercial License.
+It is free to use for academic and research purposes only.
+Commercial use requires explicit permission from the copyright holders.
+see the [LICENSE](LICENSE) file for details
+
+
 ## 📝 Sign-off on Commits (DCO)
 
 This repository requires all contributors to **sign off on their commits** to certify that they have the right to submit the code and that it complies with the project’s license.
@@ -41,8 +48,3 @@ You can add this automatically by using the `-s` flag when committing:
 git commit -s -m "Fix device parsing bug"
 
 
-## LICENSE 📄
-This project is released under a Custom Apache 2.0–NonCommercial License.
-It is free to use for academic and research purposes only.
-Commercial use requires explicit permission from the copyright holders.
-see the [LICENSE](LICENSE) file for details
