@@ -1,10 +1,11 @@
-How to contribute
-We'd love to accept your patches and contributions to this project.
+We welcome contributions from the academic and research community to improve MedMaintBot, our AI-powered chatbot prototype for medical device maintenance.
+# How you can contribute
 
-Before you begin
-Sign our Contributor License Agreement
-Contributions to this project must be accompanied by a Contributor License Agreement (CLA). You (or your employer) retain the copyright to your contribution; this simply gives us permission to use and redistribute your contributions as part of the project.
+Report bugs → Open a GitHub Issue or use our bug report form
+Suggest features or improvements → Share your ideas via this suggestion form
+Improve documentation → Fix typos, clarify instructions, or extend usage guides.
+🛠 Submit code contributions → Fork the repo, implement your changes, and open a Pull Request (PR).
 
-If you or your current employer have already signed the Google CLA (even if it was for a different project), you probably don't need to do it again.
+Researchers who wish to obtain the documents and synthetic results used for testing MedMaintBot can request access through the following form:
 
-Visit https://cla.developers.google.com/ to see your current agreements or to sign a new one.
+👉 [Prototype Testing Request Form](https://forms.gle/jLByMYBmoQLZhnnR9)
