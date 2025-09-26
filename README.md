@@ -3,7 +3,7 @@
 # AI-Powered Chatbot for Biomedical Device Maintenance
 © 2025 Hassana Mahfoud, Yassine Yassif, Bakkali Omar, Azamir Meryem (ENSAM-Meknès)
 
-# Description
+##  Description
 MedMaintBot is an intelligent chatbot designed to support biomedical engineers and technicians in managing and troubleshooting medical device maintenance.
 It leverages Retrieval-Augmented Generation (RAG), domain-specific NLP, and machine learning models to provide accurate, context-aware answers to maintenance requests.
 
@@ -27,7 +27,7 @@ Maintenance Routines: Supports technicians with preventive and corrective mainte
 
 Research-Based: Built with synthetic request scenarios validated against biomedical engineering use cases.
 
-## License 📄
+## LICENSE 📄
 This project is released under a Custom Apache 2.0–NonCommercial License.
 It is free to use for academic and research purposes only.
 Commercial use requires explicit permission from the copyright holders.
