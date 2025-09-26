@@ -27,6 +27,20 @@ Maintenance Routines: Supports technicians with preventive and corrective mainte
 
 Research-Based: Built with synthetic request scenarios validated against biomedical engineering use cases.
 
+## 📝 Sign-off on Commits (DCO)
+
+This repository requires all contributors to **sign off on their commits** to certify that they have the right to submit the code and that it complies with the project’s license.
+
+The sign-off is a simple line at the end of your commit message, which looks like this:
+
+    Signed-off-by: Your Name <your.email@example.com>
+
+You can add this automatically by using the `-s` flag when committing:
+
+```bash
+git commit -s -m "Fix device parsing bug"
+
+
 ## LICENSE 📄
 This project is released under a Custom Apache 2.0–NonCommercial License.
 It is free to use for academic and research purposes only.
